@@ -34,3 +34,42 @@ git commit -m "Third commit" .
 git loog
 git lg
 git log
+touch file1
+cat file1
+cat >>file1
+cat file1
+touch file6
+git status
+git add file6
+git status
+git commit -m "fourth commit" file6
+git log
+git remote add origin https://github.com/Pottinani/First.git
+ll
+git branch
+gut push -u master
+git push -u master
+git push -u origin master
+touch file7
+cat file7
+vi file7
+ls
+git status
+git add file7
+git status
+git commit -m "fifth commit" file7
+git log
+yum update
+sudo -i
+git branch
+ll
+gut push -u origin master
+git push -u origin master
+git status
+git init .
+git add .
+git push -u origin master
+git commit -m "sixth commit" .
+git push -u origin master
+git branch
+git push -u origin master
